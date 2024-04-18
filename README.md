@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 Запуск сервера
-json-server db.json
+### `json-server db.json`
 Старт приложения
-npm start
+### `npm start`
 
 
 Runs the app in the development mode.\
